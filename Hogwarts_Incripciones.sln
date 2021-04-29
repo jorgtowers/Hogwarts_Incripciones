@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts_Incripciones", "Hogwarts_Incripciones\Hogwarts_Incripciones.csproj", "{36FDD3F9-3E24-4A4D-8763-B311C405E006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36FDD3F9-3E24-4A4D-8763-B311C405E006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36FDD3F9-3E24-4A4D-8763-B311C405E006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36FDD3F9-3E24-4A4D-8763-B311C405E006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36FDD3F9-3E24-4A4D-8763-B311C405E006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80AB2E83-90A6-4A1C-AD48-45EF3DBE829D}
+	EndGlobalSection
+EndGlobal
